@@ -30,7 +30,7 @@ it will help you figure out how it works.
 - Install dependencies
 
   ```
-  poery install
+  poetry install
   ```
 - Now you can start WSGI http server
 
