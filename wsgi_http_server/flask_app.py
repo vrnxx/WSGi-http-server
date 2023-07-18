@@ -1,5 +1,5 @@
-from flask import Flask
-from flask import Response
+from flask import Flask, Response
+
 flask_app = Flask('flaskapp')
 
 
