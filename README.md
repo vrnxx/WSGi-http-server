@@ -66,3 +66,9 @@ To do this, go to the flask_app.py file.
 
 > You can also use another framework to connect it to this WSGi server see the framework documentation.
 
+# References
+[WSGI specification](https://peps.python.org/pep-0333/) - PEP 333 – Python Web Server Gateway Interface v1.0
+
+[Socket programming](https://realpython.com/python-sockets/) - Socket programming guide for beginners.
+
+[HTTP protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) - An overview of HTTP
