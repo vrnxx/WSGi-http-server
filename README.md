@@ -1,6 +1,6 @@
 # WSGi-http-server
 > This is a simple `WSGI http server` project.
-> I have used Flask with him..
+> I have used Flask with him.
 
 It is made for educational purposes so that everyone can get 
 
